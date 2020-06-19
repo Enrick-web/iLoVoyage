@@ -119,6 +119,10 @@ header nav ul li a {
   font-weight: bold;
 }
 
+#steps ul li p {
+  text-align: center;
+}
+
 #step1 {
   background: url(../images/07eb6d6d-7d72-4767-a532-43cf8091e919.png) no-repeat top center;
 }
